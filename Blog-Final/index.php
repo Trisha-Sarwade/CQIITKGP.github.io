@@ -41,32 +41,20 @@
                     <!--ml-auto for right alignment -->
 
                     <li class="nav-item active mx-auto">
-                        <a class="nav-link" href="#first-page">HOME</a>
+                        <a class="nav-link" href="../index.html">HOME</a>
+                    </li>
                     </li>
                     <li class="nav-item mx-auto">
-                        <a class="nav-link" href="#practicearea">CORE COMPETENCIES</a>
+                        <a class="nav-link" href="../gallery.html">GALLERY</a>
                     </li>
                     <li class="nav-item mx-auto">
-                        <a class="nav-link" href="#our-vision">OUR VISION</a>
+                        <a class="nav-link" href="../FAQs2.html">FAQs</a>
                     </li>
                     <li class="nav-item mx-auto">
-                        <a class="nav-link" href="#our-attorneys"> EXECUTIVE TEAM</a>
+                        <a class="nav-link" href="../Events.html">EVENTS</a>
                     </li>
                     <li class="nav-item mx-auto">
-                        <a class="nav-link" href="#form">CONTACT US</a>
-                    </li>
-
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="gallery.html">GALLERY</a>
-                    </li>
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="FAQs2.html">FAQs</a>
-                    </li>
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="Events.html">EVENTS</a>
-                    </li>
-                    <li class="nav-item mx-auto">
-                        <a class="nav-link" href="alumni.html">ALUMNI</a>
+                        <a class="nav-link" href="../alumni.html">ALUMNI</a>
                     </li>
                     <li class="nav-item mx-auto">
 
@@ -386,8 +374,7 @@
                         <div class="blogc card mb-3 '.$dept.' '.$ser.' '.$plin.'" style="max-width: 840px;">
                             <div class="row g-0">
                             <div class="col-md-4" style="width: fit-content;height: fit-content;">
-                                <img src="'.$plink.'" class="img-fluid rounded-start" alt="..." style="width: 100%;height: 100%;
-                                max-width: 200px; max-height: 190px;">
+                                <img src="'.$plink.'" class="img-fluid rounded-start" alt="..." style=" width: 180px; height: 200px;">
                                 </div>
                                 <div class="col-md-8 cardsmScreen">
                                     <div class="card-body">
